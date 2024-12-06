@@ -77,9 +77,9 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
+title: "𝐀𝐍𝐆𝐄𝐋 𝐌𝐃",
 thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24",
+sourceUrl: "https://whatsapp.com/channel/0029VatU6wh9cDDhlsnnLh15",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -93,9 +93,9 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
+title: "𝐀𝐍𝐆𝐄𝐋 𝐌𝐃",
 thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24",
+sourceUrl: "https://whatsapp.com/channel/0029VatU6wh9cDDhlsnnLh15",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
